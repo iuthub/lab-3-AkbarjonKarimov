@@ -1,0 +1,26 @@
+#header{
+	border: 10px solid white;
+	background-color: white;
+}
+.secondclass {
+  	font-size: 14pt;
+  	
+}
+.firstclass{
+    background-color: #A8F0F0;
+  }
+.date{
+	border:4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: auto;
+}
+span{
+	border-bottom:2px dashed blue;
+}
+
+.content{
+	max-width: 800px;
+	margin: auto;
+}
